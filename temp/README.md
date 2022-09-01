@@ -1,1 +1,1 @@
-This is a read me file
+contains scripts on shell permission
